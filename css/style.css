@@ -1,0 +1,31 @@
+.header{
+	background-image: url('../img/background.png');
+	height: 700px;
+}
+
+.test{
+	background-image: url('../img/test.jpg');
+}
+
+.logo{
+	width: 300px;
+	height: 300px;
+}
+
+.bottom h5{
+	font-family: cursive;
+	color: white;
+	text-align: center;
+	margin: 30px 0px 0px 0px;
+}
+
+
+p,a{
+	font-family: cursive;
+}
+
+
+h1{
+	font-family: cursive;
+	text-align: center;
+}
